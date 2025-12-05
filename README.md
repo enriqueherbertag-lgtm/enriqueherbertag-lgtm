@@ -9,7 +9,7 @@
 ### 🏥 **SALUD**
 | Proyecto | Tecnología | Estado | Descripción |
 |----------|------------|--------|-------------|
-| [**🩺 Resonador 432**](https://github.com/enriqueherbertag-lgtm/Resonador-432) |12 Hz + 432 Hz resonancia dual | 🟡 Diseño completo | Dispositivo médico para terapia adyuvante en cáncer |
+| | [**🩺 Resonador 432**](https://github.com/enriqueherbertag-lgtm/Resonador-432) | Dual 12Hz/432Hz | 🟡 Diseño completo | Dispositivo médico para terapia adyuvante en cáncer |
 | [**🦴 OsteoFlux**](https://github.com/enriqueherbertag-lgtm/OsteoFlux) | Doble acelerómetro + algoritmo adaptativo | 🟢 Código activo | Sistema de vibración adaptativa para salud ósea |
 
 ### ⚡ **ENERGÍA**
