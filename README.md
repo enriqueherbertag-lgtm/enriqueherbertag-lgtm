@@ -9,8 +9,8 @@
 ### 🏥 **SALUD**
 | Proyecto              | Tecnología | Estado | Descripción |
 |-----------------------|------------|--------|-------------|
-| [**🩺 Resonador 432**__](https://github.com/enriqueherbertag-lgtm/Resonador-432) | 12 Hz + 432 Hz resonancia dual | 🟡 Diseño completo | Dispositivo médico para terapia adyuvante en cáncer |
-| [**🦴 OsteoFlux**______](https://github.com/enriqueherbertag-lgtm/OsteoFlux) | Doble acelerómetro + algoritmo adaptativo | 🟢 Código activo | Sistema de vibración adaptativa para salud ósea |
+| [**🩺Resonador 432**](https://github.com/enriqueherbertag-lgtm/Resonador-432) |12 Hz + 432 Hz resonancia dual | 🟡 Diseño completo    | Dispositivo médico para terapia adyuvante en cáncer |
+| [**🦴 OsteoFlux**___](https://github.com/enriqueherbertag-lgtm/OsteoFlux) | Doble acelerómetro + algoritmo adaptativo | 🟢 Código activo | Sistema de vibración adaptativa para salud ósea |
 
 ### ⚡ **ENERGÍA**
 | [**🔋 aguayo-Hidro-H**](https://github.com/enriqueherbertag-lgtm/aguayo-Hidro-H) | Template repository | 🟢 Publicado | Sistema básico H₂/agua - Base para proyectos |
