@@ -7,12 +7,10 @@
 ## 🎯 **PROYECTOS DESTACADOS**
 
 ### 🏥 **SALUD**
-| Componente | Especificación | Justificación |
-|------------|----------------|---------------|
-| **Oscilador 1** | 12 Hz, onda sinusoidal | Frecuencia de resonancia celular |
-| **Oscilador 2** | 432 Hz, onda pura | Frecuencia de armonización |
-| **Amplificador** | Clase D, 50W RMS | Eficiencia energética |
-| **Transductor** | Piezoeléctrico de cuarzo | Precisión en frecuencia |
+| Proyecto | Tecnología | Estado | Descripción |
+|----------|------------|--------|-------------|
+| [**🩺 Resonador 432**](https://github.com/enriqueherbertag-lgtm/Resonador-432) |12 Hz + 432 Hz resonancia dual | 🟡 Diseño completo | Dispositivo médico para terapia adyuvante en cáncer |
+| [**🦴 OsteoFlux**](https://github.com/enriqueherbertag-lgtm/OsteoFlux) | Doble acelerómetro + algoritmo adaptativo | 🟢 Código activo | Sistema de vibración adaptativa para salud ósea |
 
 ### ⚡ **ENERGÍA**
 | [**🔋 aguayo-Hidro-H**](https://github.com/enriqueherbertag-lgtm/aguayo-Hidro-H) | Template repository | 🟢 Publicado | Sistema básico H₂/agua - Base para proyectos |
