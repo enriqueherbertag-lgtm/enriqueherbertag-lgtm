@@ -18,11 +18,11 @@
 ### 📡 **CONECTIVIDAD**
 | [**🌐 quantum-flux-bridge**](https://github.com/enriqueherbertag-lgtm/quantum-flux-bridge) | Protocolo propio | 🟢 Documentado | Comunicaciones en zonas remotas |
 
----
+--
 
 ## ⚠️ **DIFERENCIACIÓN CRÍTICA (IMPORTANTE)**
-- **Resonador 432:** Exclusivo para **cáncer** (NO usar para huesos)
-- **OsteoFlux:** Exclusivo para **huesos** (NO usar para cáncer)
+- **Resonador 432:** Exclusivo para tratamien del **cáncer** (NO usar para huesos)
+- **OsteoFlux:** Exclusivo para  tratamiento de **huesos** (NO usar para cáncer)
 - Ambos: Open-source MIT, investigación, no uso clínico aprobado
 
 ---
@@ -59,7 +59,7 @@
 
 ## 📫 **CONTACTO**
 - **GitHub:** [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
-- **Repositorios:** 4 proyectos públicos + documentación completa
+- **Repositorios:** 5 proyectos públicos + documentación completa
 - **Disponibilidad:** Colaboraciones estratégicas, proyectos innovadores
 
 ---
