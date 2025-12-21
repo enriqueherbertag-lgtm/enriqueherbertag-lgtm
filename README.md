@@ -95,7 +95,7 @@ Creo en:
 
 ## 📫 **CONTACTO**
 - **GitHub:** [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
-- **Repositorios:** 5 proyectos públicos + documentación completa
+- **Repositorios:** 8 proyectos públicos + documentación completa
 - **Disponibilidad:** Colaboraciones estratégicas, proyectos innovadores
 
 ---
