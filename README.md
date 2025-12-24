@@ -16,15 +16,15 @@ Arquitectura completa | React Native | Node.js | PostgreSQL
 Estado: En desarrollo activo
 Características:
 
-✅ Geolocalización en tiempo real de técnicos
+Geolocalización en tiempo real de técnicos
 
-✅ Sistema de calificaciones y reseñas transparente
+Sistema de calificaciones y reseñas transparente
 
-✅ Chat integrado y pagos seguros
+Chat integrado y pagos seguros
 
-✅ Verificación de técnicos con certificaciones
+Verificación de técnicos con certificaciones
 
-✅ Multi-categorías: fontanería, electricidad, programación, etc.
+Multi-categorías: fontanería, electricidad, programación, etc.
 
 Fase actual: App móvil en React Native + Backend API documentado
 Próximo: Conexión real API + Base de datos PostgreSQL
