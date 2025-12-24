@@ -6,14 +6,14 @@
 
 ---
 
-## **Proyecto Estrella: HomeSolution** 🏠
+## **Proyecto Estrella: HomeSolution** 
 
 ### [HomeSolution - Plataforma de Servicios a Domicilio](https://github.com/enriqueherbertag-lgtm/HomeSolution)
 **App estilo Uber para conectar técnicos con clientes en tiempo real**
 
 ```bash
-Arquitectura completa | 📱 React Native | ⚙️ Node.js | 🗄️ PostgreSQL
-Estado: 🟢 En desarrollo activo
+Arquitectura completa | React Native | Node.js | PostgreSQL
+Estado: En desarrollo activo
 Características:
 
 ✅ Geolocalización en tiempo real de técnicos
