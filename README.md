@@ -9,21 +9,21 @@ Innovación open-source con documentación completa, código real e impacto medi
 
 ---
 
-## 🧠 Proyectos Destacados (Nuevos)
+##  Proyectos Destacados (Nuevos)
 
 ### [ENA - Enlace Neural con Avatar](https://github.com/enriqueherbertag-lgtm/ENA-Enlace-Neural-Avatar)
 **Interfaz cerebro-máquina no invasiva y accesible**  
 Sistema que permite a personas con movilidad reducida controlar avatares digitales mediante señales cerebrales.  
 `Hardware validado` `NeuroSky/OpenBCI` `Raspberry Pi` `USD 299` `Apache 2.0`
 
-### [🧪 NeuroFarmac](https://github.com/enriqueherbertag-lgtm/NeuroFarmac)
+### [ NeuroFarmac](https://github.com/enriqueherbertag-lgtm/NeuroFarmac)
 **Plataforma de neurofarmacología en un chip**  
 Integración de organoides cerebrales, barrera hematoencefálica funcional y microelectrodos para evaluación de fármacos en tiempo real.  
 `Brain-on-chip` `MEA` `Organoides` `BBB` `Concepto validado`
 
 ---
 
-## 📱 Proyecto Estrella (En Desarrollo)
+##  Proyecto Estrella (En Desarrollo)
 
 ### [HomeSolution](https://github.com/enriqueherbertag-lgtm/HomeSolution)
 App estilo Uber para conectar técnicos con clientes en tiempo real.  
@@ -31,7 +31,7 @@ App estilo Uber para conectar técnicos con clientes en tiempo real.
 
 ---
 
-## 🔬 Otros Proyectos Técnicos
+##  Otros Proyectos Técnicos
 
 | Proyecto | Descripción | Stack |
 |:---|:---|:---|
@@ -44,20 +44,20 @@ App estilo Uber para conectar técnicos con clientes en tiempo real.
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 `React Native` `Flutter` `React` `Expo` | `Node.js` `Express` `Python` `FastAPI` | `PostgreSQL` `MongoDB` `Redis` | `Docker` `GitHub Actions` `AWS` `Linux`
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enriqueherbertag-lgtm&show_icons=true&theme=radical&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueherbertag-lgtm&layout=compact&theme=radical&langs_count=8)
 
 ---
 
-## 🏆 Logros
+##  Logros
 
 ![Reddit](https://img.shields.io/badge/Reddit-Platano%20Baby-orange?logo=reddit&style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)
@@ -66,7 +66,7 @@ App estilo Uber para conectar técnicos con clientes en tiempo real.
 
 ---
 
-## ⚡ Filosofía de Desarrollo
+##  Filosofía de Desarrollo
 
 1. **IDEA** → 2. **DOCUMENTACIÓN** → 3. **PROTOTIPO** → 4. **VALIDACIÓN** → 5. **PRODUCCIÓN**
 
@@ -79,7 +79,7 @@ Creo en:
 
 ---
 
-## 📬 Conectemos
+##  Conectemos
 
 **Email:** eaguayo@migst.cl  
 **GitHub:** [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)  
