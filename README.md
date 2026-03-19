@@ -27,11 +27,6 @@ Innovación open-source con documentación completa, código real e impacto medi
 
 [![Patent Holder](https://img.shields.io/badge/Patents-8%2B%20in%20trámite-orange?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
 
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
-[![Medical Device Designer](https://img.shields.io/badge/Medical%20Device-Designer-blue?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm?tab=repositories&q=medical)
-[![Project Builder](https://img.shields.io/badge/Project%20Builder-From%20Idea%20to%20Code-success?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
-[![Patent Holder](https://img.shields.io/badge/Patents-8%2B%20in%20trámite-orange?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
-
 ---
 
 ##  Proyecto Estrella
