@@ -28,7 +28,7 @@ Innovación open-source con documentación completa, código real e impacto medi
 
 ##  Proyecto Estrella
 
-### [🤖 Asistente IA Geriátrico](https://github.com/enriqueherbertag-lgtm/ASISTENTE-IA-GERI-TRICO)
+### [ Asistente IA Geriátrico](https://github.com/enriqueherbertag-lgtm/ASISTENTE-IA-GERI-TRICO)
 **Dispositivo intra-auricular para adultos mayores con Alzheimer, diabetes y retinopatía**  
 Sistema completo con hardware, firmware, software y modelo de negocio. Incluye visión artificial, monitoreo de glucosa, detección de caídas y voz familiar.  
 `Hardware validado` `Firmware en C` `Apps React Native` `USD 299` `Apache 2.0`
