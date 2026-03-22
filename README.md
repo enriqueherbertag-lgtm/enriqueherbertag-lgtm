@@ -74,7 +74,6 @@ Sistema de neuromodulación subcutánea para crisis psiquiátricas.
 | [Resonador-432](https://github.com/enriqueherbertag-lgtm/Resonador-432) | Dispositivo médico de resonancia dual para cáncer | C++ |
 | [OsteoFlux](https://github.com/enriqueherbertag-lgtm/osteoflux) | Vibración adaptativa para osteoporosis | Python |
 | [Quantum-flux-bridge](https://github.com/enriqueherbertag-lgtm/quantum-flux-bridge) | Protocolo de mejoramiento de enlace | Protocolo |
-| [CRONOS](https://github.com/enriqueherbertag-lgtm/CRONOS) (conceptual) | Nave autónoma para limpieza de basura espacial | Documentación |
 | [HomeSolution](https://github.com/enriqueherbertag-lgtm/HomeSolution) | App estilo Uber para conectar técnicos con clientes | React Native, Node.js |
 | [LGTM-GA4](https://github.com/enriqueherbertag-lgtm/LGTM-GA4) | Analítica avanzada para Google Analytics 4 | Python |
 | [JWT-auth-validator](https://github.com/enriqueherbertag-lgtm/JWT-auth-validator) | Middleware de autenticación segura para APIs | Node.js |
