@@ -69,13 +69,19 @@ Sistema de neuromodulación subcutánea para crisis psiquiátricas.
 
 | Proyecto | Descripción | Stack |
 |:---|:---|:---|
-| GameGuardian-Context | Seguridad infantil en plataformas digitales (Roblox, etc.) | TypeScript |
-| Wildfire-Preemptive-Defense | Sistema perimetral automatizado anti-incendios | Python/IA |
-| Resonador-432 | Dispositivo médico de resonancia dual para cáncer | C++ |
-| OsteoFlux | Vibración adaptativa para osteoporosis | Python |
-| Quantum-flux-bridge | Protocolo de mejoramiento de enlace | Protocolo |
-| CRONOS (conceptual) | Nave autónoma para limpieza de basura espacial | Documentación |
-
+| [GameGuardian-Context](https://github.com/enriqueherbertag-lgtm/GameGuardian-Context) | Seguridad infantil en plataformas digitales (Roblox, etc.) | TypeScript |
+| [Wildfire-Preemptive-Defense](https://github.com/enriqueherbertag-lgtm/Wildfire-Preemptive-Defense) | Sistema perimetral automatizado anti-incendios | Python/IA |
+| [Resonador-432](https://github.com/enriqueherbertag-lgtm/Resonador-432) | Dispositivo médico de resonancia dual para cáncer | C++ |
+| [OsteoFlux](https://github.com/enriqueherbertag-lgtm/osteoflux) | Vibración adaptativa para osteoporosis | Python |
+| [Quantum-flux-bridge](https://github.com/enriqueherbertag-lgtm/quantum-flux-bridge) | Protocolo de mejoramiento de enlace | Protocolo |
+| [CRONOS](https://github.com/enriqueherbertag-lgtm/CRONOS) (conceptual) | Nave autónoma para limpieza de basura espacial | Documentación |
+| [HomeSolution](https://github.com/enriqueherbertag-lgtm/HomeSolution) | App estilo Uber para conectar técnicos con clientes | React Native, Node.js |
+| [LGTM-GA4](https://github.com/enriqueherbertag-lgtm/LGTM-GA4) | Analítica avanzada para Google Analytics 4 | Python |
+| [JWT-auth-validator](https://github.com/enriqueherbertag-lgtm/JWT-auth-validator) | Middleware de autenticación segura para APIs | Node.js |
+| [GPT-language-detector](https://github.com/enriqueherbertag-lgtm/GPT-language-detector) | Clasificador de texto: Humano vs IA | Python, NLP |
+| [Python-HTTP-interceptor](https://github.com/enriqueherbertag-lgtm/Python-HTTP-interceptor) | Proxy HTTP para análisis y modificación de tráfico | Python |
+| [aguayo-Hidro-H](https://github.com/enriqueherbertag-lgtm/aguayo-Hidro-H) | Sistema de seguridad para celdas de hidrógeno caseras | C++ |
+| [deepseek-research-tools](https://github.com/enriqueherbertag-lgtm/deepseek-research-tools) | Herramientas de investigación con DeepSeek | Python |
 ---
 
 ## Stack Tecnológico
