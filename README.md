@@ -1,116 +1,46 @@
-# Enrique Aguayo H. | Mackiber Labs
+# Enrique Aguayo H.
 
-Health + Energy + Connectivity integrated systems  
-Medical devices · Alternative energy · Remote communications · Neurotechnology
+**Systems Architect for Extreme Environments**
 
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enriqueherbertag-lgtm&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueherbertag-lgtm&layout=compact&theme=radical&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com/?user=enriqueherbertag-lgtm&theme=radical)
+I design open‑source infrastructure for critical conditions — from dense cities to Mars.
 
 ---
 
-## Logros y Reconocimientos
+## Verticales
 
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
-[![Medical Device Designer](https://img.shields.io/badge/Medical%20Device-Designer-blue?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm?tab=repositories&q=medical)
-[![Project Builder](https://img.shields.io/badge/Project%20Builder-From%20Idea%20to%20Code-success?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
-[![Patent Holder](https://img.shields.io/badge/Patents-8%2B%20in%20trámite-orange?style=for-the-badge)](https://github.com/enriqueherbertag-lgtm)
-
----
-
-## Proyecto Estrella
-
-### Goliat-Orbital
-[enlace al repositorio]
-
-Sistema orbital autónomo para captura, procesamiento y reciclaje de basura espacial. Nave cilíndrica con seis branquias, succión anticipada, procesamiento a bordo y producción de lingotes de aluminio, cobre, hierro-tungsteno y plata en órbita.
-
-`Space Armor` `Motor de respiración atmosférica` `Gravedad artificial` `Cerebro DeepSeek` `Apache 2.0`
+| Área | Proyectos |
+|------|-----------|
+| **Space Infrastructure** | [Odiseo](https://github.com/enriqueherbertag-lgtm/Odiseo) — nave de infraestructura para colonizar Marte<br>[Goliat-Son](https://github.com/enriqueherbertag-lgtm/Goliat-Son) — aterrizador autónomo y módulo de carga<br>[Goliat-Orbital](https://github.com/enriqueherbertag-lgtm/Goliat-Orbital) — captura y reciclaje de basura espacial |
+| **Life Support & ISRU** | [ShieldAir-Urban](https://github.com/enriqueherbertag-lgtm/ShieldAir-Urban) — torre para limpiar smog en ciudades<br>[ShieldAir-Mars](https://github.com/enriqueherbertag-lgtm/ShieldAir-Mars) — adaptación marciana: O₂, biomasa, calor desde CO₂ |
+| **Data Integrity & Telemetry** | [Quantum-Flux](https://github.com/enriqueherbertag-lgtm/quantum-flux) — enlace satelital resiliente independiente de cables submarinos<br>LGTM-GA4 — análisis avanzado para Google Analytics 4<br>JWT-auth — autenticación segura |
 
 ---
 
-## Proyectos Destacados
+## Filosofía
 
-### Asistente IA Geriátrico
-[enlace al repositorio]
+> *"Repair the world. Don’t replace it."*
 
-Dispositivo intra-auricular para adultos mayores con Alzheimer, diabetes y retinopatía. Sistema completo con hardware, firmware, software y modelo de negocio.
-
-`Hardware validado` `Firmware en C` `Apps React Native` `USD 299` `Apache 2.0`
-
-### ENA - Enlace Neural con Avatar
-[enlace al repositorio]
-
-Interfaz cerebro-máquina no invasiva para personas con movilidad reducida.
-
-`NeuroSky/OpenBCI` `Raspberry Pi` `USD 299` `Apache 2.0`
-
-### NeuroFarmac
-[enlace al repositorio]
-
-Plataforma de neurofarmacología en chip con organoides, BHE y microelectrodos.
-
-`Brain-on-chip` `MEA` `Organoides` `BBB` `Concepto validado`
-
-### Memoria Fija v2.1
-[enlace al repositorio]
-
-Sistema de neuromodulación subcutánea para crisis psiquiátricas.
-
-`Dispositivo implantable` `LTE-M` `IA clasificadora` `Patente en trámite`
+Construyo sistemas que trabajan con la infraestructura existente: satélites ya en órbita, edificios ya en ciudades, algoritmos ya probados.
 
 ---
 
-## Otros Proyectos Técnicos
+## Estado actual del ecosistema
 
-| Proyecto | Descripción | Stack |
-|:---|:---|:---|
-| [GameGuardian-Context](https://github.com/enriqueherbertag-lgtm/GameGuardian-Context) | Seguridad infantil en plataformas digitales (Roblox, etc.) | TypeScript |
-| [Wildfire-Preemptive-Defense](https://github.com/enriqueherbertag-lgtm/Wildfire-Preemptive-Defense) | Sistema perimetral automatizado anti-incendios | Python/IA |
-| [Resonador-432](https://github.com/enriqueherbertag-lgtm/Resonador-432) | Dispositivo médico de resonancia dual para cáncer | C++ |
-| [OsteoFlux](https://github.com/enriqueherbertag-lgtm/osteoflux) | Vibración adaptativa para osteoporosis | Python |
-| [Quantum-flux-bridge](https://github.com/enriqueherbertag-lgtm/quantum-flux-bridge) | Protocolo de mejoramiento de enlace | Protocolo |
-| [HomeSolution](https://github.com/enriqueherbertag-lgtm/HomeSolution) | App estilo Uber para conectar técnicos con clientes | React Native, Node.js |
-| [LGTM-GA4](https://github.com/enriqueherbertag-lgtm/LGTM-GA4) | Analítica avanzada para Google Analytics 4 | Python |
-| [JWT-auth-validator](https://github.com/enriqueherbertag-lgtm/JWT-auth-validator) | Middleware de autenticación segura para APIs | Node.js |
-| [GPT-language-detector](https://github.com/enriqueherbertag-lgtm/GPT-language-detector) | Clasificador de texto: Humano vs IA | Python, NLP |
-| [Python-HTTP-interceptor](https://github.com/enriqueherbertag-lgtm/Python-HTTP-interceptor) | Proxy HTTP para análisis y modificación de tráfico | Python |
-| [aguayo-Hidro-H](https://github.com/enriqueherbertag-lgtm/aguayo-Hidro-H) | Sistema de seguridad para celdas de hidrógeno caseras | C++ |
-| [deepseek-research-tools](https://github.com/enriqueherbertag-lgtm/deepseek-research-tools) | Herramientas de investigación con DeepSeek | Python |
----
+Todos los proyectos están documentados, simulados y publicados con licencia Apache 2.0 (restricción comercial).
 
-## Stack Tecnológico
-
-React Native · Flutter · React · Expo | Node.js · Express · Python · FastAPI | PostgreSQL · MongoDB · Redis | Docker · GitHub Actions · AWS · Linux
+| Proyecto | Repositorio | Estado |
+|----------|-------------|--------|
+| Odiseo | [GitHub](https://github.com/enriqueherbertag-lgtm/Odiseo) | ✅ Publicado |
+| Goliat-Son | [GitHub](https://github.com/enriqueherbertag-lgtm/Goliat-Son) | ✅ Publicado |
+| Goliat-Orbital | [GitHub](https://github.com/enriqueherbertag-lgtm/Goliat-Orbital) | ✅ Publicado |
+| Quantum-Flux | [GitHub](https://github.com/enriqueherbertag-lgtm/quantum-flux) | ✅ Publicado |
+| ShieldAir-Urban | [GitHub](https://github.com/enriqueherbertag-lgtm/ShieldAir-Urban) | ✅ Publicado |
+| ShieldAir-Mars | [GitHub](https://github.com/enriqueherbertag-lgtm/ShieldAir-Mars) | ✅ Publicado |
 
 ---
 
-## Filosofía de Desarrollo
+## Contacto
 
-1. IDEA → 2. DOCUMENTACIÓN → 3. PROTOTIPO → 4. VALIDACIÓN → 5. PRODUCCIÓN
-
-Creo en:
-- Documentación clara antes del código
-- Arquitectura escalable desde el día 1
-- Protocolos de validación rigurosos
-- Código abierto cuando beneficia a la comunidad
-- Iteración rápida con feedback real
-
----
-
-## Conectemos
-
-Email: eaguayo@migst.cl  
-GitHub: @enriqueherbertag-lgtm  
+**eaguayo@migst.cl**  
 ORCID: 0009-0004-4615-6825  
-
-Repositorios: 10+ proyectos públicos + documentación completa  
-Disponibilidad: Colaboraciones estratégicas, proyectos innovadores
-
----
-
-> "La mejor prueba para un fármaco cerebral no es si se une a un receptor, sino cómo modula la conversación de la red."
+GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
