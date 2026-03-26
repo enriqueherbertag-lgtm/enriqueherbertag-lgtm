@@ -44,6 +44,8 @@ Todos los proyectos están documentados, simulados y publicados con licencia Apa
 
 ## Contacto
 
-**eaguayo@migst.cl**  
-[ORCID: 0009-0004-4615-6825](https://orcid.org/0009-0004-4615-6825)  
+**Enrique Aguayo H.**  
+Investigador independiente, Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
 GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
