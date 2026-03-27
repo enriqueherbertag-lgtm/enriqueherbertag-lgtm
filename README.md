@@ -45,7 +45,6 @@ Construyo sistemas que trabajan con la infraestructura existente: satélites ya 
 
 ## Estado actual del ecosistema
 
-Todos los proyectos están documentados, simulados y publicados con **licencia Apache 2.0 (restricción comercial)**.
 
 | Proyecto          | Repositorio | Estado     |
 |-------------------|-------------|------------|
