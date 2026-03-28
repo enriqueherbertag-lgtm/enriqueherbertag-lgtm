@@ -34,12 +34,11 @@ Todos los proyectos están liberados bajo **Creative Commons Attribution-NonComm
 ✅ **Permitido**: Uso personal, educativo, investigación y prototipado  
 ❌ **Restringido**: Fabricación y venta comercial requiere contacto previo y acuerdo por escrito.
 
-**Contacto para uso comercial:** eaguayo@migst.cl
 
----
+**Contacto para uso comercial:** 
 
-## Contacto
-
-**Enrique Aguayo H.**  
-Mackiber Labs  
-📧 eaguayo@migst.cl
+  Enrique Aguayo H.
+  Contacto: eaguayo@migst.cl
+  enriqueherbertag@gmail,com
+  ORCID: 0009-0004-4615-6825
+  GitHub: @enriqueherbertag-lgtm
