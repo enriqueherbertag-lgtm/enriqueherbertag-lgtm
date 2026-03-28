@@ -37,8 +37,7 @@ Todos los proyectos están liberados bajo **Creative Commons Attribution-NonComm
 
 **Contacto para uso comercial:** 
 
-  Enrique Aguayo H.
-  Contacto: eaguayo@migst.cl
-  enriqueherbertag@gmail,com
-  ORCID: 0009-0004-4615-6825
-  GitHub: @enriqueherbertag-lgtm
+Enrique Aguayo H.
+Contacto: eaguayo@migst.cl.enriqueherbertag@gmail.com
+ORCID: 0009-0004-4615-6825
+GitHub: @enriqueherbertag-lgtm
