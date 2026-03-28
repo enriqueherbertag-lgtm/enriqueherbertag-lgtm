@@ -34,12 +34,14 @@ Todos los proyectos están liberados bajo **Creative Commons Attribution-NonComm
 ✅ **Permitido**: Uso personal, educativo, investigación y prototipado  
 ❌ **Restringido**: Fabricación y venta comercial requiere contacto previo y acuerdo por escrito.
 
+**Contacto para uso comercial:** eaguayo@migst.cl
 
-**Contacto para uso comercial:** 
+---
 
-Autor
-Enrique Aguayo H.
-Investigador independiente, Mackiber Labs
-Contacto: eaguayo@migst.cl
-ORCID: 0009-0004-4615-6825
-GitHub: @enriqueherbertag-lgtm
+## Autor
+
+**Enrique Aguayo H.**  
+Investigador independiente, Mackiber Labs  
+Contacto: eaguayo@migst.cl  
+ORCID: 0009-0004-4615-6825  
+GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
