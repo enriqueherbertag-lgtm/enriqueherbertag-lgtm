@@ -47,7 +47,7 @@ Construyo sistemas que trabajan con la infraestructura existente: satélites ya 
 
 ## Estado actual del ecosistema
 
-Todos los proyectos están documentados, simulados y publicados bajo licencia **CC BY-NC 4.0** (uso comercial requiere autorización).
+Todos los proyectos están protegidos por derechos de autor. Uso no comercial permitido con atribución. Para uso comercial, contactar a eaguayo@migst.cl.
 
 | Proyecto | Repositorio | Estado |
 |----------|-------------|--------|
