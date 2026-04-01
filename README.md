@@ -1,8 +1,7 @@
 # Enrique Aguayo H.
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.-blue?logo=zenodo)](https://zenodo.org/communities/your-community)
+Mackiber Labs
+https://zenodo.org/communities/mackiber-labs/
 
 **All projects are open-source for non‑commercial use. Commercial use requires a separate agreement.**
 
@@ -76,6 +75,29 @@ Todos los proyectos están documentados, simulados y publicados bajo licencia **
 | deepseek-research-tools | [GitHub](https://github.com/enriqueherbertag-lgtm/deepseek-research-tools) | ✅ Publicado |
 
 ---
+
+## Licencia
+
+Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
+
+Este proyecto está protegido por derechos de autor.
+
+**PERMITIDO:**
+- Uso no comercial con fines educativos o de investigación.
+- Distribución sin modificación, siempre que se mantenga esta licencia y se dé crédito al autor.
+
+**PROHIBIDO sin autorización expresa por escrito:**
+- Uso comercial (incluyendo, pero no limitado a: ofrecerlo como servicio, SaaS, suscripción, integración en productos que generen ingresos, o cualquier uso que genere beneficio económico directo o indirecto).
+- Modificación para entornos de producción.
+- Distribución de versiones modificadas sin autorización.
+
+Para licencias comerciales, soporte técnico, pilotos empresariales o consultas:
+Contacto: **eaguayo@migst.cl**
+
+Cualquier uso fuera de los términos permitidos requiere permiso previo del autor.
+
+Las consultas comerciales son bienvenidas y se responderán en un plazo máximo de 7 días hábiles.
+
 
 ## Contacto
 
