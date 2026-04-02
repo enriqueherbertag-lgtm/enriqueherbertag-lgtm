@@ -1,10 +1,9 @@
 # Enrique Aguayo H.
 
 All projects have a DOI and are published on Zenodo.   
+
 [![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
-
 ---
-
  [Leer este perfil en español](./README.md)
 
 
