@@ -5,7 +5,7 @@
 
 ---
 
-📄 [Read this profile in English](./README.en.md)
+ [Read this profile in English](./README.en.md)
 
 
 
