@@ -1,4 +1,4 @@
-# Enrique Aguayo H.                                                    [Read this profile in English](./README.en.md)
+# Enrique Aguayo H.                                                    [English](./README.en.md)
 
 
 **Arquitecto de sistemas para entornos extremos**
