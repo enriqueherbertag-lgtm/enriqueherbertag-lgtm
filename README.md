@@ -1,6 +1,10 @@
 # Enrique Aguayo H.
 
 
+## Publicaciones académicas
+
+Todos los proyectos tienen DOI asignado y están publicados en Zenodo.
+
 [![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
 
 ---
