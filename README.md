@@ -1,5 +1,15 @@
 # Enrique Aguayo H.
 
+
+[![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
+
+---
+
+📄 [Read this profile in English](./README.en.md)
+
+
+
+
 **Arquitecto de sistemas para entornos extremos**
 
 Diseño infraestructura open-source para condiciones críticas — desde ciudades densas hasta Marte.
