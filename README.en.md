@@ -1,5 +1,6 @@
 # Enrique Aguayo H.
 
+All projects have a DOI and are published on Zenodo.
 [![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
 
 ---
@@ -33,12 +34,4 @@ All projects are protected by copyright.
 **Non-commercial use** permitted with attribution.  
 **For commercial use**, contact eaguayo@migst.cl
 
-## Academic publications
 
-All projects have a DOI and are published on Zenodo.
-
-[![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
-
----
-
-📄 [Leer este perfil en español](./README.md)
