@@ -1,7 +1,6 @@
 # Enrique Aguayo H.
 
-Mackiber Labs
-https://zenodo.org/communities/mackiber-labs/
+[![Mackiber Labs on Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
 
 **All projects are open-source for non‑commercial use. Commercial use requires a separate agreement.**
 
