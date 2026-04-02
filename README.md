@@ -40,7 +40,3 @@ Todos los proyectos están protegidos por derechos de autor.
 **Uso no comercial** permitido con atribución.  
 **Para uso comercial**, contactar a eaguayo@migst.cl
 
-## Publicaciones académicas
-
-Todos los proyectos tienen DOI asignado y están publicados en Zenodo.
-
