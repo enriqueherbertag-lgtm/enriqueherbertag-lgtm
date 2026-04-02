@@ -5,6 +5,7 @@
 Diseño infraestructura open-source para condiciones críticas — desde ciudades densas hasta Marte.
 
 [![EN](https://img.shields.io/badge/English-version-blue.svg)](README.en.md)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
 
 ## Qué hago
 
@@ -27,9 +28,3 @@ Construyo sistemas que trabajan con la infraestructura existente: satélites ya 
 Todos los proyectos están protegidos por derechos de autor.  
 **Uso no comercial** permitido con atribución.  
 **Para uso comercial**, contactar a eaguayo@migst.cl
-
-## Publicaciones académicas
-
-Todos los proyectos tienen DOI asignado y están publicados en Zenodo.
-
-[![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
