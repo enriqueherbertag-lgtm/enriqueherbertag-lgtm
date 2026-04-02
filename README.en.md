@@ -4,7 +4,7 @@
 
 ---
 
-📄 [Leer este perfil en español](./README.md)
+ [Leer este perfil en español](./README.md)
 
 
 **Systems Architect for Extreme Environments**
