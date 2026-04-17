@@ -1,9 +1,10 @@
-# Enrique Aguayo H. — Arquitecto de sistemas para entornos extremos
-
 [![Mackiber Labs Comunidad](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b7?logo=zenodo&logoColor=white)](https://zenodo.org/communities/mackiber-labs/)
 [![Licencia](https://img.shields.io/badge/Licencia-Copyright%20%28c%29%202026%20Enrique%20Aguayo-red)](LICENSE)
 [![Estado](https://img.shields.io/badge/Estado-Anteproyecto-yellow)](...)
 [![EN](https://img.shields.io/badge/English-version-blue.svg)](./README.en.md)
+
+# Enrique Aguayo H. — Arquitecto de sistemas para entornos extremos
+
 
 Diseño infraestructura open-source para condiciones críticas — desde ciudades densas hasta Marte.
 
