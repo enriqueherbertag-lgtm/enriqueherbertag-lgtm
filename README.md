@@ -42,6 +42,4 @@ Todos los proyectos están protegidos por derechos de autor.
 
 ---
 
-##  En inglés
 
-[Read this profile in English](./README.en.md)
