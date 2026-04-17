@@ -1,7 +1,9 @@
-# Enrique Aguayo H. — Systems Architect for Extreme Environments
+[![Mackiber Labs Comunidad](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b7?logo=zenodo&logoColor=white)](https://zenodo.org/communities/mackiber-labs/)
+[![Licencia](https://img.shields.io/badge/Licencia-Copyright%20%28c%29%202026%20Enrique%20Aguayo-red)](LICENSE)
+[![Estado](https://img.shields.io/badge/Estado-Anteproyecto-yellow)](...)
+[![EN](https://img.shields.io/badge/English-version-blue.svg)](./README.en.md)
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
-[![GitHub](https://img.shields.io/badge/GitHub-29%20projects-181717?logo=github)](https://github.com/enriqueherbertag-lgtm)
+# Enrique Aguayo H. — Systems Architect for Extreme Environments
 
 I design open-source infrastructure for critical conditions — from dense cities to Mars.
 
