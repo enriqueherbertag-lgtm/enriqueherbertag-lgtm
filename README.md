@@ -27,8 +27,7 @@ Diseño infraestructura open-source para condiciones críticas — desde ciudade
 
 **Diseñado para:** Gobiernos, bancos e infraestructura crítica que no pueden permitirse perder conectividad.
 
-[![DOI] (https://zenodo.org/badge/DOI/10.5281/zenodo.19358417.svg)](https://doi.org/10.5281/zenodo.19358417)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 ---
 
 ##  Ecosistema
