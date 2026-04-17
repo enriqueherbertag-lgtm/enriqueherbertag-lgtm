@@ -37,8 +37,6 @@ All projects are protected by copyright.
 
 **29 projects on GitHub** — **24 with DOI** on Zenodo.
 
-[![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
 
----
 
 
