@@ -23,9 +23,9 @@ I design open-source infrastructure for critical conditions — from dense citie
 
 **Quantum-Flux** is a fault-tolerant communication layer. It splits data into 10 streams across different satellites. Even if 2 or 3 links fail, the message gets through.
 
-**Designed for:** Governments, banks, and critical infrastructure that cannot afford to lose connectivity.
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19358417.svg)](https://doi.org/10.5281/zenodo.19358417)
+
+**Designed for:** Governments, banks, and critical infrastructure that cannot afford to lose connectivity.
 
 ---
 
@@ -41,7 +41,4 @@ All projects are protected by copyright.
 
 ---
 
-## 📄 En español
-
-[Leer este perfil en español](./README.md)
 
