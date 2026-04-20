@@ -38,7 +38,7 @@ Todos los proyectos están protegidos por derechos de autor.
 **Uso no comercial** permitido con atribución.  
 **Para uso comercial**, contactar a eaguayo@migst.cl
 
-**29 proyectos en GitHub** — **24 con DOI asignado** en Zenodo.
+**31 proyectos en GitHub** — **26 con DOI asignado** en Zenodo.
 
 ---
 
